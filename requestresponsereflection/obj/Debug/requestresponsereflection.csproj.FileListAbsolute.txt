@@ -1,0 +1,6 @@
+c:\users\helldamn\documents\visual studio 2015\Projects\requestresponsereflection\requestresponsereflection\bin\Debug\requestresponsereflection.exe.config
+c:\users\helldamn\documents\visual studio 2015\Projects\requestresponsereflection\requestresponsereflection\bin\Debug\requestresponsereflection.exe
+c:\users\helldamn\documents\visual studio 2015\Projects\requestresponsereflection\requestresponsereflection\bin\Debug\requestresponsereflection.pdb
+c:\users\helldamn\documents\visual studio 2015\Projects\requestresponsereflection\requestresponsereflection\obj\Debug\requestresponsereflection.csprojResolveAssemblyReference.cache
+c:\users\helldamn\documents\visual studio 2015\Projects\requestresponsereflection\requestresponsereflection\obj\Debug\requestresponsereflection.exe
+c:\users\helldamn\documents\visual studio 2015\Projects\requestresponsereflection\requestresponsereflection\obj\Debug\requestresponsereflection.pdb
